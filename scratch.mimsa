@@ -1,1 +1,1 @@
-\a -> compose(id(a))(id(a))
+\d -> (\e -> (\a -> d(e(a))))

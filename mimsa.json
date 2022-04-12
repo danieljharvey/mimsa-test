@@ -1,1 +1,157 @@
-{"projectBindings":{"and":["4cc066d3d7e454b2ea236657524e077ed1587916b11545de73075fa17797aaf9"],"array":["45f12ade1628b147268a19b0c81efb177f56a511894365222a6cfbf5007bf1c4"],"compose":["2fbd946cec485971ae82d4eb4f238881f4af31b6f82d82204ef00683fc45cd5e"],"const":["318eae38c5827ddbd81f24223d3ce79a7c2942ca2a91d92640adc803457a2f8d"],"dog":["d7f1c7a9872aaaf151aa4f9c40a9b843642b29a32417117b8b8f88f2ede09bd9"],"either":["0c6cc7b39b8938fb23a5b5562750bba80f5338a8dab90e09509476a486864046"],"fst":["9f33a216973633fe21fa8c69827105e5f76eac998f6a9ba0692dd4519f7ca086"],"id":["70d6629c58c186dfaafeee6e0210e10c36f0f8c07f61d761fae8ca7469ee8bba","e4f39fa1f6d430fcfeb851e06f6798527b87b15efcbfda282b6a414ab230cab1"],"json":["1df27647e91b51a4c99a97832251b693b10b607349de782ff764bfb1e77c5418"],"map":["a669ac07495f02c7605a8b73166871ebf18532590b262563c19b382ce667b753","52b245d32c1c8d67b867e1e37b7dda35e89e9a38171cff3eaf3a0384fc50b6ef"],"maybe":["52cc33b3b34e239f2664257f912cd8408904fd57eb75afdf83a7cb9adbac501e"],"monoid":["b0b2e2d3fdd5ecd65e05884f076f504907896b895ed9f20580db34144b3c1986"],"nonEmptyArray":["5d6d10bf8080e5144ab4048e427be2c9667c60325c91db26d13e0610ebecbd83"],"not":["a42a167327f7fb3b33202f46c21d9902f5b1bb44e659bb8b7c2b1e9269908156"],"or":["8e1a4df240b17b149e50bc691ee4a716d68c7a7e34020a1a3b6df76350473d04"],"parser":["367663d099a4a25e1f599f64c66bcd8939e4cf22e717147d6a97a59c70572b5a","ef24b9770895df51bc1d9561b4c3496138e3dac54fd062269caee1a497aa362d"],"person":["a1d742d67cffdfe8bea3b9c22de31d701c3e8679e7d230ba314ae045c9d6385b"],"personFromJson":["3b2311db3522dd941d150f2176725c7838b703c0afda2fd47db6f1d6680b5f19"],"personToJson":["9ec3add421dd5294032322b6e2dd44939893ffc581ef6d11cbafff7ccbc53b58"],"reader":["5b53a70146edf0204f3349e15f019abc16a08b6e7aa0424c11b26c6c13869660","171b83e9ba97e8dd5e1b00d229ab28e3f97ca507a1308b504656d7b4d813b648"],"snd":["a0124e4bcd5be448741aa127bf4dd4c0fd3239fc61aa7254e0b7c2afcfa2242e"],"state":["d56988bbb36c18d9fe84ea2af704e61010e15c1cf0ed7ef7b884e7b6567ced45","dcc73fc424603e93b4404bb26540a0f6db0653cbd4f9123d530ea95a73a2507b"],"string":["c532c2171e02356f799e130cb38a79b941ea4b332524378c3831f6a64de9400e"],"unit":["e084e4bf6e546072c5f8a8d5bba7ebecc5360944e50240e06a415b5b9e05c46e"]},"projectPropertyTests":{"849b27d5490273ef273439b65ab7438599797d32d5f2751b6475d601d2433f84":{"ptExprHash":"849b27d5490273ef273439b65ab7438599797d32d5f2751b6475d601d2433f84","ptName":"id does nothing"},"d7fcca221080eb6424f7d200b5dc421c13e864d1effeec496beb172508a687f2":{"ptExprHash":"d7fcca221080eb6424f7d200b5dc421c13e864d1effeec496beb172508a687f2","ptName":"Round trip JSON encoding test for Person"},"e15c34ed985d06aa4709c84018bb508e1d3e895572f5a67d6930ff9b81982394":{"ptExprHash":"e15c34ed985d06aa4709c84018bb508e1d3e895572f5a67d6930ff9b81982394","ptName":"Running not twice is identity on booleans"},"e856d05d1e6f5116d73fb9bb9d802875f7940798c31873acea5f09c4b7a29ac9":{"ptExprHash":"e856d05d1e6f5116d73fb9bb9d802875f7940798c31873acea5f09c4b7a29ac9","ptName":"id does nothing"}},"projectTypes":{"Either":["68b2ca9d9101ba09a29f527c548546810656bc5350be8ecd4fe357cea89e79b6"],"JArray":["e120464fbd83aa8897dad9eb3af0521f558e3546666b6d21d7de2d89e4fc7294"],"JBoolean":["e120464fbd83aa8897dad9eb3af0521f558e3546666b6d21d7de2d89e4fc7294"],"JNull":["e120464fbd83aa8897dad9eb3af0521f558e3546666b6d21d7de2d89e4fc7294"],"JNumber":["e120464fbd83aa8897dad9eb3af0521f558e3546666b6d21d7de2d89e4fc7294"],"JRecord":["e120464fbd83aa8897dad9eb3af0521f558e3546666b6d21d7de2d89e4fc7294"],"JString":["e120464fbd83aa8897dad9eb3af0521f558e3546666b6d21d7de2d89e4fc7294"],"Json":["e120464fbd83aa8897dad9eb3af0521f558e3546666b6d21d7de2d89e4fc7294"],"Just":["b6a23b8d347bc060643b5665c760702fc5bf662bdefc1b2f05e424209a32e998"],"Left":["68b2ca9d9101ba09a29f527c548546810656bc5350be8ecd4fe357cea89e79b6"],"Map":["fa6066d0c53ff905e22d8faba0d9175b8a5b2036d8e71c15b174a46ea5f56cef"],"Maybe":["b6a23b8d347bc060643b5665c760702fc5bf662bdefc1b2f05e424209a32e998"],"Monoid":["ce3eae7871b82404f16cc1614f427da95c1a6bc5d32713dda4dee8b9ce3b2fd1"],"NonEmptyArray":["ee3aaaa9f5750d78e16ea7ad5e36248e69c129510b97e49c253cabe6beda2b01"],"Nothing":["b6a23b8d347bc060643b5665c760702fc5bf662bdefc1b2f05e424209a32e998"],"Parser":["2b1b227ae018cfd4b2bdbf74fbba704e82c392e51006de7572a4efc2c89b9ccf"],"Person":["7207725ff36f9d5c13787902d047a0ce50a0db15efeea100b9c35e482426754d"],"Reader":["0e3148a8ab2be765344ae3c8c30176eedbfcccd664c169fee917758a25f378d8"],"Right":["68b2ca9d9101ba09a29f527c548546810656bc5350be8ecd4fe357cea89e79b6"],"State":["8456a0da0b63579ee89aa10b56e976e1ddb94966aa7e19c99ced07737d31d9f2"],"Unit":["109ef9261c5c243149673636ac1c17c6c0a72feba987b4e977a9ceb31ab934ff"],"Void":["d91317c79003b0deded9cc303a360716b22f34fa4e46f69239f259393ad4fa64"]},"projectUnitTests":{"adca1165dd33ba0fb8204c0b3550148deed79f4205bc4a71f2130d0b6937f5f4":{"utExprHash":"adca1165dd33ba0fb8204c0b3550148deed79f4205bc4a71f2130d0b6937f5f4","utName":"parser.char parses a specific char","utSuccess":true}},"projectVersion":1}
+{
+  "projectBindings": {
+    "and": ["4cc066d3d7e454b2ea236657524e077ed1587916b11545de73075fa17797aaf9"],
+    "array": [
+      "45f12ade1628b147268a19b0c81efb177f56a511894365222a6cfbf5007bf1c4"
+    ],
+    "compose": [
+      "2fbd946cec485971ae82d4eb4f238881f4af31b6f82d82204ef00683fc45cd5e"
+    ],
+    "const": [
+      "318eae38c5827ddbd81f24223d3ce79a7c2942ca2a91d92640adc803457a2f8d"
+    ],
+    "dog": ["d7f1c7a9872aaaf151aa4f9c40a9b843642b29a32417117b8b8f88f2ede09bd9"],
+    "either": [
+      "0c6cc7b39b8938fb23a5b5562750bba80f5338a8dab90e09509476a486864046"
+    ],
+    "fst": ["9f33a216973633fe21fa8c69827105e5f76eac998f6a9ba0692dd4519f7ca086"],
+    "id": [
+      "70d6629c58c186dfaafeee6e0210e10c36f0f8c07f61d761fae8ca7469ee8bba",
+      "e4f39fa1f6d430fcfeb851e06f6798527b87b15efcbfda282b6a414ab230cab1"
+    ],
+    "json": [
+      "1df27647e91b51a4c99a97832251b693b10b607349de782ff764bfb1e77c5418"
+    ],
+    "map": [
+      "a669ac07495f02c7605a8b73166871ebf18532590b262563c19b382ce667b753",
+      "52b245d32c1c8d67b867e1e37b7dda35e89e9a38171cff3eaf3a0384fc50b6ef"
+    ],
+    "maybe": [
+      "52cc33b3b34e239f2664257f912cd8408904fd57eb75afdf83a7cb9adbac501e"
+    ],
+    "monoid": [
+      "b0b2e2d3fdd5ecd65e05884f076f504907896b895ed9f20580db34144b3c1986"
+    ],
+    "nonEmptyArray": [
+      "5d6d10bf8080e5144ab4048e427be2c9667c60325c91db26d13e0610ebecbd83"
+    ],
+    "not": ["a42a167327f7fb3b33202f46c21d9902f5b1bb44e659bb8b7c2b1e9269908156"],
+    "or": ["8e1a4df240b17b149e50bc691ee4a716d68c7a7e34020a1a3b6df76350473d04"],
+    "parser": [
+      "367663d099a4a25e1f599f64c66bcd8939e4cf22e717147d6a97a59c70572b5a",
+      "ef24b9770895df51bc1d9561b4c3496138e3dac54fd062269caee1a497aa362d"
+    ],
+    "person": [
+      "a1d742d67cffdfe8bea3b9c22de31d701c3e8679e7d230ba314ae045c9d6385b"
+    ],
+    "personFromJson": [
+      "3b2311db3522dd941d150f2176725c7838b703c0afda2fd47db6f1d6680b5f19"
+    ],
+    "personToJson": [
+      "9ec3add421dd5294032322b6e2dd44939893ffc581ef6d11cbafff7ccbc53b58"
+    ],
+    "reader": [
+      "5b53a70146edf0204f3349e15f019abc16a08b6e7aa0424c11b26c6c13869660",
+      "171b83e9ba97e8dd5e1b00d229ab28e3f97ca507a1308b504656d7b4d813b648"
+    ],
+    "snd": ["a0124e4bcd5be448741aa127bf4dd4c0fd3239fc61aa7254e0b7c2afcfa2242e"],
+    "state": [
+      "d56988bbb36c18d9fe84ea2af704e61010e15c1cf0ed7ef7b884e7b6567ced45",
+      "dcc73fc424603e93b4404bb26540a0f6db0653cbd4f9123d530ea95a73a2507b"
+    ],
+    "string": [
+      "c532c2171e02356f799e130cb38a79b941ea4b332524378c3831f6a64de9400e"
+    ],
+    "unit": ["e084e4bf6e546072c5f8a8d5bba7ebecc5360944e50240e06a415b5b9e05c46e"]
+  },
+  "projectPropertyTests": {
+    "849b27d5490273ef273439b65ab7438599797d32d5f2751b6475d601d2433f84": {
+      "ptExprHash": "849b27d5490273ef273439b65ab7438599797d32d5f2751b6475d601d2433f84",
+      "ptName": "id does nothing"
+    },
+    "d7fcca221080eb6424f7d200b5dc421c13e864d1effeec496beb172508a687f2": {
+      "ptExprHash": "d7fcca221080eb6424f7d200b5dc421c13e864d1effeec496beb172508a687f2",
+      "ptName": "Round trip JSON encoding test for Person"
+    },
+    "e15c34ed985d06aa4709c84018bb508e1d3e895572f5a67d6930ff9b81982394": {
+      "ptExprHash": "e15c34ed985d06aa4709c84018bb508e1d3e895572f5a67d6930ff9b81982394",
+      "ptName": "Running not twice is identity on booleans"
+    },
+    "e856d05d1e6f5116d73fb9bb9d802875f7940798c31873acea5f09c4b7a29ac9": {
+      "ptExprHash": "e856d05d1e6f5116d73fb9bb9d802875f7940798c31873acea5f09c4b7a29ac9",
+      "ptName": "id does nothing"
+    }
+  },
+  "projectTypes": {
+    "Either": [
+      "68b2ca9d9101ba09a29f527c548546810656bc5350be8ecd4fe357cea89e79b6"
+    ],
+    "JArray": [
+      "e120464fbd83aa8897dad9eb3af0521f558e3546666b6d21d7de2d89e4fc7294"
+    ],
+    "JBoolean": [
+      "e120464fbd83aa8897dad9eb3af0521f558e3546666b6d21d7de2d89e4fc7294"
+    ],
+    "JNull": [
+      "e120464fbd83aa8897dad9eb3af0521f558e3546666b6d21d7de2d89e4fc7294"
+    ],
+    "JNumber": [
+      "e120464fbd83aa8897dad9eb3af0521f558e3546666b6d21d7de2d89e4fc7294"
+    ],
+    "JRecord": [
+      "e120464fbd83aa8897dad9eb3af0521f558e3546666b6d21d7de2d89e4fc7294"
+    ],
+    "JString": [
+      "e120464fbd83aa8897dad9eb3af0521f558e3546666b6d21d7de2d89e4fc7294"
+    ],
+    "Json": [
+      "e120464fbd83aa8897dad9eb3af0521f558e3546666b6d21d7de2d89e4fc7294"
+    ],
+    "Just": [
+      "b6a23b8d347bc060643b5665c760702fc5bf662bdefc1b2f05e424209a32e998"
+    ],
+    "Left": [
+      "68b2ca9d9101ba09a29f527c548546810656bc5350be8ecd4fe357cea89e79b6"
+    ],
+    "Map": ["fa6066d0c53ff905e22d8faba0d9175b8a5b2036d8e71c15b174a46ea5f56cef"],
+    "Maybe": [
+      "b6a23b8d347bc060643b5665c760702fc5bf662bdefc1b2f05e424209a32e998"
+    ],
+    "Monoid": [
+      "ce3eae7871b82404f16cc1614f427da95c1a6bc5d32713dda4dee8b9ce3b2fd1"
+    ],
+    "NonEmptyArray": [
+      "ee3aaaa9f5750d78e16ea7ad5e36248e69c129510b97e49c253cabe6beda2b01"
+    ],
+    "Nothing": [
+      "b6a23b8d347bc060643b5665c760702fc5bf662bdefc1b2f05e424209a32e998"
+    ],
+    "Parser": [
+      "2b1b227ae018cfd4b2bdbf74fbba704e82c392e51006de7572a4efc2c89b9ccf"
+    ],
+    "Person": [
+      "7207725ff36f9d5c13787902d047a0ce50a0db15efeea100b9c35e482426754d"
+    ],
+    "Reader": [
+      "0e3148a8ab2be765344ae3c8c30176eedbfcccd664c169fee917758a25f378d8"
+    ],
+    "Right": [
+      "68b2ca9d9101ba09a29f527c548546810656bc5350be8ecd4fe357cea89e79b6"
+    ],
+    "State": [
+      "8456a0da0b63579ee89aa10b56e976e1ddb94966aa7e19c99ced07737d31d9f2"
+    ],
+    "Unit": [
+      "109ef9261c5c243149673636ac1c17c6c0a72feba987b4e977a9ceb31ab934ff"
+    ],
+    "Void": ["d91317c79003b0deded9cc303a360716b22f34fa4e46f69239f259393ad4fa64"]
+  },
+  "projectUnitTests": {
+    "adca1165dd33ba0fb8204c0b3550148deed79f4205bc4a71f2130d0b6937f5f4": {
+      "utExprHash": "adca1165dd33ba0fb8204c0b3550148deed79f4205bc4a71f2130d0b6937f5f4",
+      "utName": "parser.char parses a specific char",
+      "utSuccess": true
+    }
+  },
+  "projectVersion": 1
+}

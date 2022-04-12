@@ -1,0 +1,1 @@
+{"storeBindings":{"unwrap":"4b72195fa3cc7adcc75c701a1ae9635f9adfd7397fcdf85fc949f9308b451264","wrap":"f57dc76556ffc8afe4608bfa09bec9431c8853cc1e99363840ad7db5bd07f58d"},"storeExpression":{"expAnn":null,"expRecordItems":{"unwrap":{"expAnn":null,"expVar":"unwrap","tag":"MyVar"},"wrap":{"expAnn":null,"expVar":"wrap","tag":"MyVar"}},"tag":"MyRecord"},"storeTypeBindings":{}}

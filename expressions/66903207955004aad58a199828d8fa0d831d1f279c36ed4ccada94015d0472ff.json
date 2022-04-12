@@ -1,0 +1,1 @@
+{"storeBindings":{},"storeExpression":{"expAnn":null,"expBinder":{"idAnn":null,"idVar":"a","tag":"Identifier"},"expBody":{"expAnn":null,"expArg":{"expAnn":null,"expVar":"a","tag":"MyVar"},"expFunc":{"expAnn":null,"expTyCon":"Map","tag":"MyConstructor"},"tag":"MyApp"},"tag":"MyLambda"},"storeTypeBindings":{"Map":"fa6066d0c53ff905e22d8faba0d9175b8a5b2036d8e71c15b174a46ea5f56cef"}}
